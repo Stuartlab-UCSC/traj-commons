@@ -1,3 +1,6 @@
 [submodule "traj-formats"]
 	path = traj-formats
 	url = https://github.com/Stuartlab-UCSC/traj-formats.git
+[submodule "traj-restapi"]
+	path = traj-restapi
+	url = https://github.com/Stuartlab-UCSC/traj-restapi.git
